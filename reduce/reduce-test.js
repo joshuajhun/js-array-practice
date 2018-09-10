@@ -16,7 +16,7 @@ describe('map tests', () => {
     
     // your code goes here
     
-    expect(results).to.equal(-170);
+    expect(results).to.equal(-114);
   });
 
   it.skip('should multiply a list of numbers', ()=> {
